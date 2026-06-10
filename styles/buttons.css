@@ -1,0 +1,79 @@
+.navigation-btn {
+    background: #1572D3;
+    width: 125px;
+    height: 43px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.navigation-btn:hover {
+    background: #3393fa;
+}
+
+.search-btn {
+    background: #1572D3;
+    width: 159px;
+    height: 48px;
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.search-btn:hover {
+    background: #3393fa;
+}
+
+.cars-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+
+    width: 224px;
+    height: 40px;
+    padding: 8px;
+    background: #1572D3;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.cars-btn:hover {
+    background: #3393fa;
+}
+
+.cars_footer-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    
+    background: transparent;
+    padding: 8px;
+    margin: 0 auto 83px auto;
+    width: 216px;
+    height: 48px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.cars_footer-btn:hover {
+    border: 1px solid #000000;
+}
+
+.download-btn {
+    background: rgb(21 114 211 / 10%);
+    width: 146px;
+    height: 42px;
+    padding: 10px 32px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.download-btn:hover {
+    background: rgba(0, 123, 255, 0.2);
+}

@@ -1,0 +1,133 @@
+@font-face {
+    font-family: PoppinsSB;
+    src: url(/fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: PoppinsM;
+    src: url(/fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: PoppinsR;
+    src: url(/fonts/Poppins-Regular.ttf);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.poppinssb-1 {
+    font-family: PoppinsSB, sans-serif;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.poppinssb-2 {
+    font-family: PoppinsSB, sans-serif;
+    font-size: 48px;
+    line-height: 100%;
+}
+
+.poppinssb-3 {
+    font-family: PoppinsSB, sans-serif;
+    font-size: 16px;
+    line-height: 17px;
+}
+
+.poppinssb-4 {
+    font-family: PoppinsSM, sans-serif;
+    font-size: 48px;
+    line-height: 120%;
+}
+
+.poppinsm {
+    font-family: PoppinsM, sans-serif;
+    font-size: 16px;
+    line-height: 150%;
+    text-decoration: none;
+}
+
+.poppinsm-1 {
+    font-family: PoppinsM, sans-serif;
+    font-size: 14px;
+    line-height: 150%;
+}
+
+.poppinsm-2 {
+    font-family: PoppinsM, sans-serif;
+    font-size: 38px;
+    line-height: 130%;  
+}
+
+.poppinsm-3 {
+    font-family: PoppinsM, sans-serif;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.poppinsm-4 {
+    font-family: PoppinsM, sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.poppinsm-5 {
+    font-family: PoppinsM, sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.poppinsm-6 {
+    font-family: PoppinsM, sans-serif;
+    font-size: 16px;
+    line-height: 17px;
+}
+
+.poppinsm-7 {
+    font-family: PoppinsM, sans-serif;
+    font-size: 64px;
+    line-height: 150%;
+}
+
+.poppinsm-8 {
+    font-family: PoppinsM, sans-serif;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+.poppinsr-1 {
+    font-family: PoppinsR, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+.poppinsr-2 {
+    font-family: PoppinsR, sans-serif;
+    font-size: 14px;
+    line-height: 150%;
+}
+
+.poppinsr-3 {
+    font-family: PoppinsR, sans-serif;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.poppinsr-4 {
+    font-family: PoppinsR, sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.poppinsr-5 {
+    font-family: PoppinsR, sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.poppinsr-6 {
+    font-family: PoppinsR, sans-serif;
+    font-size: 12px;
+    line-height: 150%;
+}
